@@ -1,4 +1,4 @@
-# Water-Marking-on-Image-using-OpenCV
+# Water-mark removing using AI
 This Python script removes a watermark from an image using OpenCV and NumPy libraries.
 
 Getting Started
